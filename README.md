@@ -30,4 +30,4 @@ Limitations
 Run Application
 
   - Clone this repository
-  - Open index.html file using a web browser
+  - Open banner.html file using a web browser
